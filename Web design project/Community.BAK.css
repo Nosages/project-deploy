@@ -1,0 +1,31 @@
+
+/* LM*/
+.crest{
+	 background-image: url("images/keep.jpeg");
+}
+/* This is the background image used for the top half of the website*/
+.text-center{
+	 background-color: black;
+}
+/* This is the color used for the background of the website*/
+.crest img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* This is used to keep the crest/logo in the center of the page*/
+.row p{
+	font-family: 'Shippori Antique', sans-serif;
+	color: white;
+}
+/* This is the google font being added while also adding a font color*/
+.text-center p{
+	font-family:'Shippori Antique', sans-serif;
+	color: white;
+}
+/* This is me targeting the News to make it the same font and color as the other text*/
+
+<!--This is the refrense for the buttons which i used on this site W3schools.com. 2021. W3Schools online HTML editor. [online] Available at: <https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb> [Accessed 18 December 2021].-->
+
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_lightbulb
+center

@@ -1,0 +1,39 @@
+/* logo location */
+.center{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%
+}
+
+/* image location*/
+.happy{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%
+}
+
+
+/* to make the roboto font work */
+.robotoo{
+
+font-family: 'Roboto', sans-serif;
+
+}
+
+/* to make Shippori Antique font work */
+.shippori{
+	
+font-family: 'Shippori Antique', sans-serif;
+
+}
+
+
+/* Background image */
+body {
+  background-image: url('H3background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
